@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Samrat Bhattacharya, a sophomore studying Computer Science and Engineering at the National Institute of Technology, Agartala. With a passion for technology and a drive for leadership, I've been actively involved in various initiatives both within my academic institution and the broader technical community.
 ## 🚀 Skills and Interests
-I am proficient in:<br>  - Web Development (MERN Stack)<br>  - Event Management<br>  - Algorithms and Data Structures (DSA)<br>  - Deep diving into Backend Development technologies<br>- Experienced in organizing events and conducting workshops<br>- Passionate about photography, capturing moments with creativity and finesse<br>
+I am proficient in:<br>  - Web Development (MERN Stack)<br>  - Data Structures & Algorithms (DSA)<br>  - Deep diving into Backend Development technologies<br>- Experienced in organizing events and conducting workshops<br> - Event Management<br/> - Passionate about photography, capturing moments with creativity and finesse<br>
 
 
 ## 🌐 Socials:
