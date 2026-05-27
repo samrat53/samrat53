@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi, I'm **Samrat Bhattacharya** — a final-year Computer Science & Engineering student at **NIT Agartala (2022–2026)**.  
+Hi, I'm **Samrat Bhattacharya** — an **SDE Intern at Oracle** alongside being a final-year Computer Science & Engineering student at **NIT Agartala (2022–2026)**.  
 
 💻 I have hands-on experience in:
 - **DevOps & Deployments**, with working knowledge of Kubernetes, Helm Charts, Podman, Docker, Git, Linux, SSH, basic CI/CD pipelines.
