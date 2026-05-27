@@ -9,6 +9,7 @@ Hi, I'm **Samrat Bhattacharya** — an **SDE Intern at Oracle** alongside being 
 - **Problem Solving**, with **500+ LeetCode problems** solved in C++ and a strong grasp of data structures & algorithms.
 
 🌱 Currently I am an **SDE Intern at Oracle** with major contributions in Cloud Native evolution of our product with Kubernetes, Helm Charts, Podman/Docker, SSH. Previously, I completed a **Backend Internship at Ortus Finance**, where I built secure REST APIs with Node.js, MongoDB, and Prisma, and containerized services with Docker.
+
 🚀 I’ve also contributed to open-source through **AOSSIE**, implementing a scalable theming system for DebateAI.
 
 🎯 My interests lie in:
